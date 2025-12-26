@@ -25,7 +25,7 @@ I'm a backend developer specializing in the .NET ecosystem, with solid experienc
 ## 📊 GitHub Stats
 
 [![Douglas GitHub stats](https://github-readme-stats.vercel.app/api?username=DouglasProvk&show_icons=true&theme=radical)](https://github.com/DouglasProvk/github-readme-stats)  
-[![Tecnologias](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasProvk&layout=compact&langs_count=8&theme=radical)](https://github.com/DouglasProvk/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasProvk&layout=compact)
 
 ---
 
