@@ -5,7 +5,7 @@ I'm a backend developer specializing in the .NET ecosystem, with solid experienc
 
 ---
 
-<div style="display: inline_block">
+<div style="display: float">
   <img align="center" alt="Douglas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Douglas-dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
   <img align="center" alt="Douglas-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
