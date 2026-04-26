@@ -1,7 +1,9 @@
 ## 👋 Hi! I'm Douglas Silva  
 ### 💻 Back-End Developer & Data Analyst | C++, .NET Core, ASP.NET, PHP | Clean Architecture & Scalable APIs
 
-I'm a backend developer specializing in the .NET ecosystem, with solid experience developing scalable APIs, clean architecture, and microservices. I'm passionate about technology, good coding practices, and high-performance solutions.
+Sou um desenvolvedor backend especializado no ecossistema .NET, com sólida experiência no desenvolvimento de APIs escaláveis, arquitetura limpa e microsserviços. Sou apaixonado por tecnologia, boas práticas de programação e soluções de alto desempenho.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bem%20vindo%20ao%20meu%20Portfólio&fontSize=40" />
 
 ---
 <table>
