@@ -9,6 +9,7 @@ Sou um desenvolvedor backend especializado no ecossistema .NET, com sólida expe
 <table>
   <tr>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"></td>
     <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="40"></td>
@@ -50,6 +51,7 @@ Sou um desenvolvedor backend especializado no ecossistema .NET, com sólida expe
 - 💻 **C# / .NET / .NET Core** — 🟦🟦🟦🟦🟦🟦🟦🟦🟦🟦 (100%)
 - 🧱 **ASP.NET MVC / Web API** — 🟦🟦🟦🟦🟦🟦🟦🟦🟦▫️ (95%)
 - 🗃 **Entity Framework / Dapper** — 🟦🟦🟦🟦🟦🟦🟦🟦▫️▫️ (90%)
+- 🐋 **Docker** — 🟦🟦🟦🟦🟦🟦🟦🟦▫️▫️ (90%)
 - 🧠 **C / C++** — 🟩🟩🟩🟩🟩🟩🟩🟩🟨▫️ (85%)
 - 🌐 **JavaScript / TypeScript** — 🟨🟨🟨🟨🟨🟨🟨🟧▫️▫️ (80%)
 - 🖼 **VueJS / NestJS** — 🟩🟩🟩🟩🟩🟩🟩▫️▫️▫️ (75%)
